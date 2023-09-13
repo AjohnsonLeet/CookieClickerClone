@@ -1,1 +1,1 @@
-# CookieClickerClone
+# THE Clicker!
